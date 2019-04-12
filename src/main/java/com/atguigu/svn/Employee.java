@@ -7,7 +7,8 @@ public class Employee {
 		System.out.println("Hello..."); // Black
 		System.out.println("Hello..."); // White
 		System.out.println("Hello..."); // White
-		System.out.println("Hello...");
+		System.out.println("Hello..."); // edit by hotfix
+		System.out.println("Hello..."); // edit by manager
 	}
 
 }
