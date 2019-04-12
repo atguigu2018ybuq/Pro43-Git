@@ -5,6 +5,8 @@ public class Employee {
 	public static void main(String[] args) {
 		System.out.println("Hello...");
 		System.out.println("Hello..."); // Black
+		System.out.println("Hello..."); // White
+		System.out.println("Hello..."); // White
 		System.out.println("Hello...");
 	}
 
